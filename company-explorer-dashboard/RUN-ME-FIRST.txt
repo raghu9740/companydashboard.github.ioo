@@ -1,0 +1,10 @@
+COMPANY EXPLORER DASHBOARD — QUICK START
+
+1. Extract the ZIP.
+2. Open the frontend folder.
+3. Double-click index.html.
+4. The dashboard opens in your browser and filters work immediately.
+
+No installation is needed for the standalone UI demo.
+
+For backend/API setup, see README.md.
