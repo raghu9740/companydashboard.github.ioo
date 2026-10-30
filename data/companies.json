@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Google",
+    "industry": "Technology / EdTech",
+    "employees": 182000,
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  {
+    "name": "Amazon Web Services",
+    "industry": "Cloud Computing",
+    "employees": 150000,
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  {
+    "name": "Dell Technologies",
+    "industry": "Hardware / IT Services",
+    "employees": 120000,
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  {
+    "name": "HP Inc",
+    "industry": "Computing Hardware",
+    "employees": 58000,
+    "country": "United States",
+    "city": "Palo Alto"
+  },
+  {
+    "name": "Canva Education",
+    "industry": "Design Software",
+    "employees": 4000,
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "name": "Acer",
+    "industry": "Consumer Electronics",
+    "employees": 7500,
+    "country": "Switzerland",
+    "city": "Zurich"
+  },
+  {
+    "name": "Promethean",
+    "industry": "Interactive Displays",
+    "employees": 650,
+    "country": "United Kingdom",
+    "city": "Blackburn"
+  },
+  {
+    "name": "ClassLink",
+    "industry": "Education Software",
+    "employees": 250,
+    "country": "United States",
+    "city": "Clifton"
+  },
+  {
+    "name": "Seesaw",
+    "industry": "EdTech Platform",
+    "employees": 320,
+    "country": "United States",
+    "city": "San Francisco"
+  },
+  {
+    "name": "BenQ",
+    "industry": "Display Technology",
+    "employees": 3200,
+    "country": "United Kingdom",
+    "city": "London"
+  }
+]
